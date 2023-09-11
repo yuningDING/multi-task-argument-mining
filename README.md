@@ -7,7 +7,7 @@ In Study 1, we show that the automatic scoring of argument quality benefits from
 In Study 2, we explore the different combinations of three tasks: automated span detection, type and quality prediction. Results show that a multi-task learning approach combining the three tasks outperforms sequential approaches that first learn to segment and then predict the quality/type of a segment.
 The architecture of multi-task learning is shown below.
 
-![Architecture of Multi-task Sequence Tagging](./image/architacture?raw=true "Architecture of Multi-task Sequence Tagging")
+![Architecture of Multi-task Sequence Tagging](./image/architacture.png?raw=true "Architecture of Multi-task Sequence Tagging")
 
 ### How to use
 
