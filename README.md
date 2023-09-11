@@ -1,6 +1,6 @@
 # Multi-Task Argument Mining
 
-This is the code to 2023 ACL Finding paper for <br>Score It All Together: A Multi-Task Learning Study on Automatic Scoring of Argumentative Essays</br>. 
+This is the code to 2023 ACL Finding paper for <br>[Score It All Together: A Multi-Task Learning Study on Automatic Scoring of Argumentative Essays](https://aclanthology.org/2023.findings-acl.825.pdf)</br> 
 
 In Study 1, we show that the automatic scoring of argument quality benefits from additional information about context, writing prompt and argument type. 
 
